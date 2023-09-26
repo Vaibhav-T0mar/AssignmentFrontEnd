@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Vaibhav-T0mar/AssignmentFrontEnd.git/static/css/main.8060bcb9.css",
+    "main.js": "/Vaibhav-T0mar/AssignmentFrontEnd.git/static/js/main.5456437c.js",
+    "static/media/hero.png": "/Vaibhav-T0mar/AssignmentFrontEnd.git/static/media/hero.b7eed86e54c8bf52a163.png",
+    "static/media/18591063.png": "/Vaibhav-T0mar/AssignmentFrontEnd.git/static/media/18591063.7261d9d9dbfb89fe4119.png",
+    "static/media/Star3.png": "/Vaibhav-T0mar/AssignmentFrontEnd.git/static/media/Star3.bfdd07314619a3afe02f.png",
+    "index.html": "/Vaibhav-T0mar/AssignmentFrontEnd.git/index.html",
+    "main.8060bcb9.css.map": "/Vaibhav-T0mar/AssignmentFrontEnd.git/static/css/main.8060bcb9.css.map",
+    "main.5456437c.js.map": "/Vaibhav-T0mar/AssignmentFrontEnd.git/static/js/main.5456437c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8060bcb9.css",
+    "static/js/main.5456437c.js"
+  ]
+}
