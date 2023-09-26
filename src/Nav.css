@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container-nav{
+    display: flex;
+    width: 60%;
+height: 7vh;
+justify-content: space-between;
+align-items: center;
+color: white;
+/* background-color: aqua; */
+}
+
+
+.main{
+    
+    margin-top: 50px;
+    
+}
+
+/* .main h1{
+
+z-index: 99999;
+
+
+
+} */
+
+/* .main h1:nth-child(3){
+    margin-left: 35%;
+    opacity: 0.2;
+    
+} */
+
+
+.main .Orange{
+    background-color:  #F07E15;
+  position: absolute;
+    width: 60%;
+    height: 60vh;
+    top: 50%;
+    left: 25%;
+    opacity: 0.2px;
+    
+}
+
+.main .Orange h1{
+   
+    font-family: Syne;
+    font-size: 135px;
+    font-weight: 800;
+    line-height: 103px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+
+.main .Orange h1:nth-child(1){
+    position: relative;
+    left: -25%;
+    bottom: 20%;
+}
+.main .Orange h1:nth-child(2){
+    position: relative;
+    left: 18%;
+    bottom: 15%;
+ 
+    -webkit-text-fill-color: #F07E15; /* Will override color (regardless of order) */
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: white;
+    
+    /* mix-blend-mode: color; */
+}
+.main .Orange h1:nth-child(3){
+    position: relative;
+    left: -20%;
+    bottom: 10%;
+}

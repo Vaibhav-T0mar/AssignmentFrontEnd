@@ -1,0 +1,17 @@
+.footer{
+    font-family: Poppins;
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+display: flex;
+justify-content: center;
+background: #000000;
+color: white;
+align-items: center;
+width: 100vw;
+height: 66px;
+
+
+}

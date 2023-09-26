@@ -1,0 +1,107 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container1 {
+    width: 100vw;
+    height: 110vh;
+    top: 41px;
+    opacity: 0.5px;
+    background-color: rgb(18, 18, 17);
+    padding: 0 90px;
+}
+
+.container2{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+
+}
+.container1 h1 {
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 275;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+
+}
+
+
+
+.container1 img {
+    fill: currentColor;
+    color: white;
+    position: relative;
+    top: 39px;
+    
+    height: 40px;
+    width: 30px;
+}
+
+.wishlsit {
+    display: flex;
+    justify-content: space-evenly;
+    /* background-color: aqua; */
+    height: 45px;
+    width: 20%;
+   
+    position: relative;
+    top: 15px;
+    align-items: center;
+    color: white;
+    font-family: Work Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+
+}
+
+.container1 hr{
+  
+    position: absolute; 
+    top: 100px;
+    width: 87%;
+    height: 1px;
+    background-color: white;
+  
+  
+}
+
+.img .hero{
+    position: absolute;
+    width: 500px;
+    height: 97vh;
+    left: 43.5%;
+    top: -49%;
+    /* mix-blend-mode: soft-light; */
+    opacity: 0.7;
+    /* z-index: 5; */
+}
+
+
+img.starCircle{
+  
+width: 50%;
+height: 50vh;
+/* background-color: aquamarine; */
+position: absolute;
+left:50%;
+top: -65%;
+ /* z-index: 2; */
+overflow: hidden;
+color: white;
+mix-blend-mode: soft-light;
+}
+
+.main button{
+    background-color: rgb(18, 18, 17);
+    color: white;
+    position: absolute;
+    top: 110vh;
+    left: 200px;
+}
